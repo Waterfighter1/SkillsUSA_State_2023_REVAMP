@@ -1,0 +1,6 @@
+#000500 - Black
+#362417 - Dark Brown
+#92817A - Medium Brown
+#F1DABF - Light Brown
+#FFFBFF - White
+ 
